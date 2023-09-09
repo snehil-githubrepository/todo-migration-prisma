@@ -219,9 +219,9 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     "to-fast-properties" "^2.0.0"
 
-"@esbuild/darwin-arm64@0.18.16":
-  "integrity" "sha512-aBxruWCII+OtluORR/KvisEw0ALuw/qDQWvkoosA+c/ngC/Kwk0lLaZ+B++LLS481/VdydB2u6tYpWxUfnLAIw=="
-  "resolved" "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.18.16.tgz"
+"@esbuild/win32-x64@0.18.16":
+  "integrity" "sha512-sCIVrrtcWN5Ua7jYXNG1xD199IalrbfV2+0k/2Zf2OyV2FtnQnMgdzgpRAbi4AWlKJj1jkX+M+fEGPQj6BQB4w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.16.tgz"
   "version" "0.18.16"
 
 "@eslint-community/eslint-utils@^4.2.0", "@eslint-community/eslint-utils@^4.4.0":
@@ -869,11 +869,6 @@
   "integrity" "sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw=="
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
-
-"fsevents@~2.3.2":
-  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
-  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
-  "version" "2.3.2"
 
 "gensync@^1.0.0-beta.2":
   "integrity" "sha512-3hN7NaskYvMDLQY55gnW3NQ+mesEAepTqlg+VEbj7zzqEMBVNhzcGYYeqFo/TlYz6eQiFcp1HcsCZO+nGgS8zg=="
